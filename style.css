@@ -1,11 +1,12 @@
 /* styles.css */
 body {
-  background-color: red;
+  background-color: blue;
   font-family: Arial, sans-serif;
 }
 
 h1 {
-  color: blue;
+  color: red;
+
 }
 
 p {

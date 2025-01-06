@@ -1,13 +1,13 @@
 /* styles.css */
 body {
-    background-color: red;
-    font-family: Arial, sans-serif;
+  background-color: red;
+  font-family: Arial, sans-serif;
 }
 
-h1{
-    color:blue
+h1 {
+  color: blue;
 }
 
-p{
-    background-color: violet;
+p {
+  background-color: violet;
 }
